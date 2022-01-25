@@ -24,6 +24,7 @@
   <a href="https://www.linkedin.com/in/clara-dinato-b86774207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://steamcommunity.com/profiles/76561198435892330/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
   
+  
   ![Snake animation](https://github.com/dinatoclara22/dinatoclara22/blob/output/github-contribution-grid-snake.svg)
   
 </div>
