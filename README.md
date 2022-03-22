@@ -1,4 +1,4 @@
-## Olá Me chamo Clara Dinato, tenho 18 anos e sou estudante de Desenvolvimento Front-End
+## Olá!! Me chamo Clara Dinato, tenho 18 anos e sou estudante de Desenvolvimento Front-End
 
 <div align="center">
   <a href="https://github.com/dinatoclara22">
