@@ -9,7 +9,7 @@
 ## 🧩 Tecnologias que uso
   [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,styledcomponents,sass,figma)](https://skillicons.dev)
  <div style="display: inline_block"><br>                                                                                                                    
-   <img align="right" alt="pic" height="150" style="border-radius:10px;" src="https://media.discordapp.net/attachments/842377637959172136/935552475379945563/222222222.png">
+   <img align="right" alt="pic" height="150" style="border-radius:10px;" src="https://media.discordapp.net/attachments/976271953776214049/997484054888849408/ReadyPlayerMe-Avatar.png?width=671&height=671">
 </div>
 
   ## 🙋🏻‍♀️ Redes Socais
