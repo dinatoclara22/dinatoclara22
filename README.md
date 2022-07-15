@@ -7,7 +7,7 @@
 </div>
 
 ## 🧩 Tecnologias que uso
-  [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,sass,figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,sass,typescript,styled-components,figma)](https://skillicons.dev)
  <div style="display: inline_block"><br>                                                                                                                    
    <img align="right" alt="pic" height="150" style="border-radius:10px;" src="https://media.discordapp.net/attachments/842377637959172136/935552475379945563/222222222.png">
 </div>
