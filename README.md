@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋, I'm Clara Dinato</h1>
+<h1 align="center">Hello everybody, I'm Clara Dinato👋</h1>
 <h3 align="center">Front End Developer from Brazil</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn-icons-png.flaticon.com/512/1157/1157109.png">
 
