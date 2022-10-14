@@ -1,6 +1,6 @@
 <h1 align="center">Hello everybody, I'm Clara Dinato <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 <h3 align="center">Front End Developer from Brazil</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn-icons-png.flaticon.com/512/1157/1157109.png">
+<img align="right" alt="Coding" width="250" src="https://cdn-icons-png.flaticon.com/512/1157/1157109.png">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda"/> </p>
 
