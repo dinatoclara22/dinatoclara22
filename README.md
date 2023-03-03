@@ -26,4 +26,4 @@
 
 <h3 align="left">🧩 Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,bootstrap,styledcomponents,sass,figma,photoshop,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,bootstrap,wordpress,styledcomponents,sass,figma,photoshop,git)](https://skillicons.dev)
