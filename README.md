@@ -1,29 +1,26 @@
-<h1 align="center">Hello everybody, I'm Clara Dinato <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
-<h3 align="center">Front End Developer from Brazil</h3>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda"/> </p>
-
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p> -->
-------------------------------------------------------
-<h3 align="left">👾 About Me</h3>
-
-- 👩🏻‍💻 I’m a **Web Developer**
-
-- 📍 I’m currently learning **ReactJS**
-
-- ❓ Ask me about **Web Development and Games**
-
-- 📫 How to reach me **contatodinatoclara@gmail.com**
-
-- 🎮 One fact, **my favorite game is The Last Of Us**
-------------------------------------------------------
-<h3 align="left">🎯 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/clara-dinato-b86774207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+# Olá dev!👋
+<p align="left"> 
+  Me chamo Clara Dinato, sou Desenvolvedora Front-End e estou me graduando em Engenharia de Software.
+  Meu últimos projeto foi o site <a href="https://www.faleonibus.com.br/">Fale Ônibus</a> onde atuei no front-end, meu <a href="[https://www.faleonibus.com.br/](https://github.com/dinatoclara22/portfolio)">Portfólio</a> e o <a href="https://github.com/dinatoclara22/github-profiles">Svelte Perfis</a>.
 </p>
 
-------------------------------------------------------
+<p align="left">
+  🦄 Linguagens e Ferramentas: <strong>HTML, CSS, Javascript, ReactJS, TailwindCSS, Bootstrap, SASS, Git, Wordpress, Python, Photoshop.</strong>
+</p>
 
-<h3 align="left">🧩 Languages and Tools:</h3>
+<p align="left">
+  💌 Entre em contato: ⤵️
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,bootstrap,wordpress,styledcomponents,sass,figma,photoshop,git)](https://skillicons.dev)
+<p align="left">
+  <a href="mailto:contatodinatoclara@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="https://www.linkedin.com/in/clara-dinato-b86774207/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="https://www.instagram.com/dinato_22/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
