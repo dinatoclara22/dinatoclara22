@@ -3,7 +3,7 @@
 # Olá dev!👋
 <p align="left"> 
   Me chamo Clara Dinato, sou Desenvolvedora Front-End e estou me graduando em Engenharia de Software.
-  Meu últimos projeto foi o site <a href="https://www.faleonibus.com.br/">Fale Ônibus</a> onde atuei no front-end, meu <a href="[https://www.faleonibus.com.br/](https://github.com/dinatoclara22/portfolio)">Portfólio</a> e o <a href="https://github.com/dinatoclara22/github-profiles">Svelte Perfis</a>.
+  Meu último projeto foi o site <a href="https://www.faleonibus.com.br/">Fale Ônibus</a> onde atuei no front-end, meu <a href="[https://www.faleonibus.com.br/](https://github.com/dinatoclara22/portfolio)">Portfólio</a> e o <a href="https://github.com/dinatoclara22/github-profiles">Svelte Perfis</a>.
 </p>
 
 <p align="left">
