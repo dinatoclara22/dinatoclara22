@@ -2,7 +2,7 @@
 
 # Olá dev!👋
 <p align="left"> 
-  Me chamo Clara Dinato, sou Desenvolvedora Front-End e estou me graduando em Engenharia de Software.
+  Me chamo Clara Dinato, atualmente sou estag dentro da Globo na equipe de Big Data & AI. <br>
   Meu último projeto foi o site <a href="https://www.faleonibus.com.br/">Fale Ônibus</a> onde atuei no front-end, meu <a href="[https://www.faleonibus.com.br/](https://github.com/dinatoclara22/portfolio)">Portfólio</a> e o <a href="https://github.com/dinatoclara22/github-profiles">Svelte Perfis</a>.
 </p>
 
