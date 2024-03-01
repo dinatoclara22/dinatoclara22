@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens e Ferramentas: <strong>HTML, CSS, Javascript, ReactJS, TailwindCSS, Bootstrap, MySQL, Git, Wordpress, Python, Photoshop.</strong>
+  Linguagens e Ferramentas: <strong>Javascript, ReactJS, TailwindCSS, Git, Wordpress, Python, GCP, MySQL</strong>
 </p>
 
 <p align="left">
