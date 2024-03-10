@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  Linguagens e Ferramentas: <strong>Javascript, ReactJS, TailwindCSS, Git, Wordpress, Python, GCP, MySQL</strong>
+  Linguagens e ferramentas: <strong>Python, Google Cloud Platform, MySQL, Javascript, Git, Wordpress </strong>
 </p>
 
 <p align="left">
